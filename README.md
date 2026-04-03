@@ -20,4 +20,4 @@ Welcome to my personal portfolio website! This project showcases my journey as a
 3. Explore the sections!
 
 ## 📬 Contact
-Feel free to reach out to me at: [your.email@example.com](mailto:your.email@example.com)
+Feel free to reach out to me at: t2214167@gmail.com
